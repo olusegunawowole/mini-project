@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<memory version="1.0">
+  <click-count value='0' />
+  <previous-selected-id value='-1' />
+  <match-count value='0' />
+  <click-maxed value='false' />
+  <game-in-progress value='true' />
+  <category-index value='3' />
+  <timer-best-time value='359999' />
+  <timer-time value='9' />
+  <grid-cell>
+    <cell index='0' group-id='3' open='false' complete='false' frozen='false' />
+    <cell index='1' group-id='6' open='false' complete='false' frozen='false' />
+    <cell index='2' group-id='0' open='false' complete='false' frozen='false' />
+    <cell index='3' group-id='4' open='false' complete='false' frozen='false' />
+    <cell index='4' group-id='0' open='false' complete='false' frozen='false' />
+    <cell index='5' group-id='6' open='false' complete='false' frozen='false' />
+    <cell index='6' group-id='3' open='false' complete='false' frozen='false' />
+    <cell index='7' group-id='2' open='false' complete='false' frozen='false' />
+    <cell index='8' group-id='4' open='false' complete='false' frozen='false' />
+    <cell index='9' group-id='0' open='false' complete='false' frozen='false' />
+    <cell index='10' group-id='6' open='false' complete='false' frozen='false' />
+    <cell index='11' group-id='2' open='false' complete='false' frozen='false' />
+    <cell index='12' group-id='7' open='false' complete='false' frozen='false' />
+    <cell index='13' group-id='5' open='false' complete='false' frozen='false' />
+    <cell index='14' group-id='1' open='false' complete='false' frozen='false' />
+    <cell index='15' group-id='4' open='false' complete='false' frozen='false' />
+    <cell index='16' group-id='2' open='false' complete='false' frozen='false' />
+    <cell index='17' group-id='1' open='false' complete='false' frozen='false' />
+    <cell index='18' group-id='7' open='false' complete='false' frozen='false' />
+    <cell index='19' group-id='3' open='false' complete='false' frozen='false' />
+    <cell index='20' group-id='7' open='false' complete='false' frozen='false' />
+    <cell index='21' group-id='1' open='false' complete='false' frozen='false' />
+    <cell index='22' group-id='5' open='false' complete='false' frozen='false' />
+    <cell index='23' group-id='5' open='false' complete='false' frozen='false' />
+    <cell index='24' group-id='-1' open='false' complete='false' frozen='false' />
+  </grid-cell>
+</memory>
