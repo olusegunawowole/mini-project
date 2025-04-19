@@ -1,0 +1,15 @@
+.titled-pane {
+    -fx-padding: 2.5 0 2.5 0;
+}
+
+.titled-pane > .title{
+    -fx-background-color: white;
+}
+
+.titled-pane > .title > .text {
+    -fx-fill: black;
+}
+
+.titled-pane > .content{
+    -fx-background-color: #0096C9;
+}
